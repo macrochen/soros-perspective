@@ -270,4 +270,4 @@
 ---
 研究日期: 2026年4月15日
 研究者: Hermes Agent
-文件位置: /Users/shi/.agents/skills/soros-perspective/references/research/05-decisions.md
+文件位置: <skills-root>/soros-perspective/references/research/05-decisions.md
